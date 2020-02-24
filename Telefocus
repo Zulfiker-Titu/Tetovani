@@ -39,7 +39,7 @@ https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,Sonic
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1,Nick (Bangla)
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
@@ -256,6 +256,8 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,Nickelodeon
+https://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8?url=http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+#EXTINF:-1,Nick
 https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
