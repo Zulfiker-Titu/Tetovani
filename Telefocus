@@ -539,10 +539,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
 #EXTINF:-1,Fox Family Movies
 https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
-#EXTINF:-1,Fox Movies
-https://live.mawintv2.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1,Fox Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1,HiTS
@@ -691,6 +687,8 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/uatv.stream/playlist.m3u8
 #EXTINF:-1,RT Documentary
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8
+#EXTINF:-1,Sony BBC Earth HD
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
 #EXTINF:-1,BBC Two
 https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
