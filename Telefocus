@@ -288,15 +288,15 @@ https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master
 #EXTINF:-1,SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
-http://103.58.73.26/streams/112/index.m3u8
+http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-01)
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1582605000_4b1c79efce6656ccd86924f6e1e75b93
 #EXTINF:-1,Sony Ten 3 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1,Sony ESPN (Opt-01)
@@ -316,7 +316,7 @@ http://68.183.92.29:1935/live/star1/playlist.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.58.73.26/streams/1016/index.m3u8
+http://103.68.116.50/live/feed1006/index.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2
