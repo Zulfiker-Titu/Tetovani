@@ -472,7 +472,7 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,Zee News
-http://zee18.site/zee/get.php?channel=zeenews
+http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,Saudi Quran
@@ -496,7 +496,7 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 #EXTINF:-1,Food Network
 http://ott-cdn.ucom.am/s18/index.m3u8
 #EXTINF:-1,Living Foodz
-http://zee18.site/zee/get.php?channel=livingfoodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1,Hum Masala
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1,DABL 
@@ -552,21 +552,21 @@ http://51.15.8.16:8081/lolind2/sonypixhd/playlist.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,Zee Cafe HD
-http://zee18.site/zee/get.php?channel=zeecafehd
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Picture HD
-http://zee18.site/zee/get.php?channel=andpicshd
+http://z5amshls.akamaized.net/addpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix HD
-http://zee18.site/zee/get.php?channel=andflixhd
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Prive HD
-http://zee18.site/zee/get.php?channel=andprivehd
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& TV HD
-http://zee18.site/zee/get.php?channel=andtvhd
+http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema
 https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
 #EXTINF:-1,Zee Cinema HD
-http://zee18.site/zee/get.php?channel=zcinemahd
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema USA
-http://zee18.site/zee/get.php?channel=cinemausa
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1,B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 #EXTINF:-1,B4U Movies
@@ -600,13 +600,13 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1,Zee Anmol
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
+http://z5amshls.akamaized.net/zeranmol/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood
-http://zee18.site/zee/get.php?channel=classic
+http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Action (Opt-1)
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
 #EXTINF:-1,Zee Action (Opt-2)
-http://zee18.site/zee/get.php?channel=action
+http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, Gem Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1,Zing
@@ -636,7 +636,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1,Zee World
-http://zee18.site/zee/get.php?channel=world
+http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
@@ -768,7 +768,7 @@ https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
 #EXTINF:-1,9x Jalwa
 http://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,9xO
-http://zee18.site/zee/get.php?channel=9xo
+http://z5amshls.akamaized.net/9xo/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
