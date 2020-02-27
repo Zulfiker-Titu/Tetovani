@@ -114,9 +114,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,Zee Bangla HD
-http://zee18.site/zee/get.php?channel=zeebanglahd
+http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-1)
-http://zee18.site/zee/get.php?channel=zbanglacnm
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-2)
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1,Alif TV
@@ -132,7 +132,7 @@ http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 #EXTINF:-1,Enterr 10 Bangla
 http://103.68.116.50/live/feed1009/index.m3u8
 #EXTINF:-1,DD Bangla
-http://zee18.site/zee/get.php?channel=ddbangla
+http://z5amshls.akamaized.net/ddbangla/tracks-v1a1/index.m3u8
 #EXTINF:-1,Ruposhi Bangla
 http://42.0.6.130/hls/xyfUtxZ_qKfps8jjh7nVjw/1576663494/ruposhi_bangla_hi/index.m3u8
 #EXTINF:-1,ABP Ananda
@@ -140,7 +140,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1,Zee 24 Ghanta
-http://zee18.site/zee/get.php?channel=24ghanta
+http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
 #EXTINF:-1,Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 #EXTINF:-1,Nan TV
