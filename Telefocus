@@ -475,8 +475,6 @@ http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
-#EXTINF:-1,afn
-https://anevia115.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Food Network
@@ -494,9 +492,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
 #EXTINF:-1,HBO (Indonesia)
-http://103.68.251.137/live/hbo/index.m3u8
-#EXTINF:-1,WB TV
-https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+http://cdn1.tvmienphi.tv/live/hbo/index.m3u8?token=ONiOZCR0lLmN3-rc3eB1Iw&e=1583386392
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -509,30 +505,16 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1,HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Lotus Macau
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,ifilm
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Life Time
-https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:-1,Fox Action Movies
-https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
-#EXTINF:-1,Fox Family Movies
-https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
-#EXTINF:-1,Fox Movies
-http://103.68.251.140/live/foxmovies/index.m3u8
-#EXTINF:-1,FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1,HiTS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
-#EXTINF:-1,Film Box
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Pix
-https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1,Sony Pix HD
 http://51.15.8.16:8081/lolind2/sonypixhd/playlist.m3u8
 #EXTINF:-1,Movies Now
@@ -540,7 +522,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,Zee Cafe HD
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Picture HD
-http://z5amshls.akamaized.net/addpicshd/tracks-v1a1/index.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Flix HD
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Prive HD
@@ -563,22 +545,6 @@ http://103.68.116.50/live/feed1013/index.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,HOLLYWOOD MOVIES 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,HOLLYWOOD MOVIES 2
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,HOLLYWOOD MOVIES 3
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,HOLLYWOOD MOVIES 4
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MANDARIN MOVIES 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MANDARIN MOVIES 2
-http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
-#EXTINF:-1,MANDARIN MOVIES 3
-http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
-#EXTINF:-1,Real PX Comedy
-http://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
 #EXTINF:-1,POP LIFE
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 #EXTINF:-1,VH1
@@ -599,8 +565,6 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1,Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors
-http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Sony TV
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
@@ -628,7 +592,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,Zee TV HD
 https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 #EXTINF:-1,Zee TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,ZEE MUNDO
@@ -649,20 +613,16 @@ http://live.airteltvplus.com/hls/UxLS6bC_Gi7QivozQp4CcA/1568453439/hum_sitarey_l
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1,ANALAI EXPRESS
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
-#EXTINF:-1,BOOGLE BOLLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1,DESI CHANNEL
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1,TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
 #EXTINF:-1,FOX Life
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,History 2
@@ -675,16 +635,10 @@ http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8
 #EXTINF:-1,Sony BBC Earth HD
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
-#EXTINF:-1,BBC Two
-https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,National Geographic HD
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1,YTN Science
@@ -695,8 +649,6 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1,Crime+Investigation
-https://anevia115.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1,Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery HD
@@ -714,13 +666,9 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,TLC HD World
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1,TLC
-https://anevia115.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
-#EXTINF:-1,Fox
-https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
-#EXTINF:-1,Insight
-http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Blue Ant Extreme
@@ -752,7 +700,7 @@ http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1,9xM
 https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
 #EXTINF:-1,9x Jalwa
-http://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+http://z5amshls.akamaized.net/9xjalwa/tracks-v1a1/index.m3u8
 #EXTINF:-1,9xO
 http://z5amshls.akamaized.net/9xo/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
@@ -787,16 +735,10 @@ http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Mooz HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,TRT Muzik 
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1,Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
 #EXTINF:-1,MUSIC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1,MUSIC TV
-https://anevia114.mncnow.id:443/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1,Music Box
-http://212.26.132.86/hls/mb_ua.m3u8
 #EXTINF:-1,DJing Live
 https://www.djing.com/tv/live.m3u8
 #EXTINF:-1,DJing Karaoke
@@ -817,12 +759,8 @@ http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_hi/
 http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,MTV HiTS
-http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 #EXTINF:-1,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1,First Music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1,Q Music
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1,Retro
@@ -833,8 +771,6 @@ http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
 http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Channel [V]
-https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:-1,Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1,Zeta TV HD
