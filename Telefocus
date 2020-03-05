@@ -308,9 +308,7 @@ http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.58.73.26/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://niazitv.pk:8080/sports/24/7/by/Niazi_TV/index.m3u8
-#EXTINF:-1,Star Sports 1 (Opt-3)
-http://68.183.92.29:1935/live/star1/playlist.m3u8
+http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
@@ -345,8 +343,6 @@ http://43.231.22.238:8081/temp1/ctg_ptvsports/playlist.m3u8
 http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1,GEO Super
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
-#EXTINF:-1,Sky Net Sports
-http://119.59.116.136:8889/threstr/skynethd/chunks.m3u8
 #EXTINF:-1,Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 2
@@ -355,6 +351,8 @@ http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 4
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1,Sky Net Sports
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://43.231.22.238:8081/temp1/ctg_skycricket/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -381,8 +379,6 @@ http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
 http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
 #EXTINF:-1,Bein Sports 11
 http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
-#EXTINF:-1,MNC Sports
-https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1,Dubai Sports
@@ -413,12 +409,6 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1,LaLiga TV
-http://push12.feber.xyz/hls/channel21hd47/chunks.m3u8
-#EXTINF:-1,Fox Sports 1
-https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,Fox Sports 2
-https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 #EXTINF:-1,RTA Sports (Opt-1)
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,RTA Sports (Opt-2)
@@ -449,8 +439,6 @@ http://45.126.83.51/uq2663/h/h23/index.m3u8
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
 #EXTINF:-1,Bloomberg
 http://45.126.83.51/session/7470f670-4cad-11ea-a63a-839f825d21d0/uq2663/h/h03/index.m3u8
-#EXTINF:-1,Sky News 
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,TIMES NOW
