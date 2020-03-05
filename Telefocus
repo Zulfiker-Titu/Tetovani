@@ -255,10 +255,6 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
-#EXTINF:-1,Nick JR
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,Nick
-https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -267,6 +263,8 @@ https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 https://anevia115.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 #EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1,Disney channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ANIMAX
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1,AniPlus
@@ -281,8 +279,6 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1,Baby TV
-https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,DUBBI KIDS
@@ -294,7 +290,7 @@ https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
-http://103.68.116.50/live/feed1004/index.m3u8
+http://103.58.73.26/streams/112/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-01)
@@ -306,9 +302,9 @@ http://103.58.73.26/streams/110/index.m3u8
 #EXTINF:-1,Sony ESPN (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-01)
-http://103.58.73.26/streams/106/index.m3u8
-#EXTINF:-1,Sony SIX (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
+#EXTINF:-1,Sony SIX (Opt-02)
+http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.58.73.26/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
