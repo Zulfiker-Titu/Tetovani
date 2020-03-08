@@ -363,27 +363,27 @@ http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8
+http://local.referrari.com/live/60186_.m3u8
 #EXTINF:-1,Bein Sports 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8
+http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
 #EXTINF:-1,Bein Sports 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8
+http://local.referrari.com/live/60188_.m3u8
 #EXTINF:-1,Bein Sports 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8
+http://local.referrari.com/live/60189_.m3u8
 #EXTINF:-1,Bein Sports 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8
+http://local.referrari.com/live/60190_.m3u8
 #EXTINF:-1,Bein Sports 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8
+http://local.referrari.com/live/60191_.m3u8
 #EXTINF:-1,Bein Sports 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
+http://local.referrari.com/live/60192_.m3u8
 #EXTINF:-1,Bein Sports 8
-http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
+http://local.referrari.com/live/60193_.m3u8
 #EXTINF:-1,Bein Sports 9
-http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
+http://local.referrari.com/live/60194_.m3u8
 #EXTINF:-1,Bein Sports 10
-http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
+http://95.170.215.120/hls/m3u8/BeinSport10.m3u8
 #EXTINF:-1,Bein Sports 11
-http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
+http://95.170.215.120/hls/m3u8/BeinSport11.m3u8
 #EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1,Dubai Sports
