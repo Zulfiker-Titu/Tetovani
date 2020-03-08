@@ -256,6 +256,8 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
+#EXTINF:-1,NICK 2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-817/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -346,6 +348,14 @@ http://51.158.144.124:8090/CR/1/index.m3u8
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
 #EXTINF:-1,espn
 http://npse.brots.world/espn2.m3u8
+#EXTINF:-1,espn 2
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-724/tracks-v1a1/mono.m3u8
+#EXTINF:-1,espn 3
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-727/tracks-v1a1/mono.m3u8
+#EXTINF:-1,espn +
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-732/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DIRECTV SPORT HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-706/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 2
