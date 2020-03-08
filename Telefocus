@@ -506,12 +506,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
-#EXTINF:-1,HBO HD
-https://delivery.macan.live/stream/hbo/index.m3u8?token=ltmWyWnZ&v=20200202
-#EXTINF:-1,HBO Hits
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=ltmWyWnZ&v=20200202
-#EXTINF:-1,HBO Family
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=ltmWyWnZ&v=20200202
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -539,7 +533,7 @@ http://proxyts.ec.cx:8082/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1,Fox Action Movies
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Fox Premium Movies
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-752/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FX
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1,Fox Crime
