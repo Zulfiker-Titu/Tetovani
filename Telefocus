@@ -10,10 +10,9 @@ http://42.0.6.130/hls/Ui66w0QYoxIFoX1bmuOmYA/1564900319/atn_bangla_hi/index.m3u8
 #EXTINF:-1,ATN NEWS
 http://42.0.6.130/hls/Ui66w0QYoxIFoX1bmuOmYA/1564900319/atn_news_hi/index.m3u8
 #EXTINF:-1,BANGLA TV
-http://telelivetv.webredirect.org:8081/globeworld2020/banglatv/playlist.m3u8
+http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA VISION
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-http://103.68.116.50/live/feed1012/index.m3u8
 #EXTINF:-1,BIJOY TV
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV
@@ -25,7 +24,7 @@ http://42.0.6.130/hls/-bSsQP2bB9EAopwEDkllbg/1578199997/btv_world_hi/index.m3u8
 #EXTINF:-1,CHANNEL 9 (Opt-01)
 http://103.58.73.26/streams/102/index.m3u8
 #EXTINF:-1,CHANNEL 9 (Opt-02)
-http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1,CHANNEL 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1,CHANNEL I
