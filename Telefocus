@@ -333,18 +333,16 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:-1,Sky Sports Football
-http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
-http://local.referrari.com/live/60186_.m3u8
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
 #EXTINF:-1,Bein Sports 2
 http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
 #EXTINF:-1,Bein Sports 3
-http://local.referrari.com/live/60188_.m3u8
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
 #EXTINF:-1,Bein Sports 4
-http://local.referrari.com/live/60189_.m3u8
+http://95.170.215.120/hls/m3u8/BeinSport4.m3u8
 #EXTINF:-1,Bein Sports 5
 http://local.referrari.com/live/60190_.m3u8
 #EXTINF:-1,Bein Sports 6
