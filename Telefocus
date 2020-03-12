@@ -43,6 +43,8 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,Nick (Bangla)
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,Sony Yay (Bangla)
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1,Ekattor TV
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
@@ -239,14 +241,8 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
-#EXTINF:-1,NICK 2 HD
-https://d2fy3q8z0e9ls2.cloudfront.net/HY-817/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
-#EXTINF:-1,Sony Yay
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-#EXTINF:-1,Disney XD
-https://anevia115.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 #EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,Disney channel
@@ -321,24 +317,10 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,Ten Sports
-http://43.231.22.238:8081/temp1/ctg_tensports/playlist.m3u8
-#EXTINF:-1,PTV Sports (Opt-1)
-http://43.231.22.238:8081/temp1/ctg_ptvsports/playlist.m3u8
-#EXTINF:-1,PTV Sports (Opt-2)
+#EXTINF:-1,PTV Sports
 http://51.158.144.124:8090/CR/1/index.m3u8
-#EXTINF:-1,GEO Super
-http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
 #EXTINF:-1,espn
 http://npse.brots.world/espn2.m3u8
-#EXTINF:-1,espn 2
-https://d2fy3q8z0e9ls2.cloudfront.net/HY-724/tracks-v1a1/mono.m3u8
-#EXTINF:-1,espn 3
-https://d2fy3q8z0e9ls2.cloudfront.net/HY-727/tracks-v1a1/mono.m3u8
-#EXTINF:-1,espn +
-https://d2fy3q8z0e9ls2.cloudfront.net/HY-732/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DIRECTV SPORT HD
-https://d2fy3q8z0e9ls2.cloudfront.net/HY-706/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 2
@@ -350,7 +332,7 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1,Sky Net Sports
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Cricket
-http://43.231.22.238:8081/temp1/ctg_skycricket/playlist.m3u8
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1,Sky Sports Football
 http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
 #EXTINF:-1,Bein Sports
