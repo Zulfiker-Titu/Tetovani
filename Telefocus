@@ -405,12 +405,6 @@ http://51.158.144.124:8090/CR/2/index.m3u8
 http://51.158.144.124:8090/CR/7/index.m3u8
 #EXTINF:-1,Willow HD
 http://51.158.144.124:8090/CR/3/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/030.m3u8
-#EXTINF:-1,Fox Sports 1
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/029.m3u8
-#EXTINF:-1,Fox Sports 1
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/028.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -465,8 +459,6 @@ http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
-#EXTINF:-1,afn
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/056.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Food Network
@@ -512,15 +504,13 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,ifilm
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Action Movies
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/033.m3u8
-#EXTINF:-1,Fox Family Movies
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/031.m3u8
-#EXTINF:-1,Fox Movies
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/061.m3u8
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1,Fox Premium Movies
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1,FX
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/048.m3u8
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1,Fox Crime
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/049.m3u8
+http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 #EXTINF:-1,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star World
@@ -801,7 +791,5 @@ http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1,Channel [V]
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/059.m3u8
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
