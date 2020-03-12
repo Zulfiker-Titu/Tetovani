@@ -361,6 +361,8 @@ http://95.170.215.120/hls/m3u8/BeinSport9.m3u8
 http://95.170.215.120/hls/m3u8/BeinSport10.m3u8
 #EXTINF:-1,Bein Sports 11
 http://95.170.215.120/hls/m3u8/BeinSport11.m3u8
+#EXTINF:-1,Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1,Dubai Sports 1
@@ -393,6 +395,8 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1,Gol TV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1,RTA Sports (Opt-1)
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,RTA Sports (Opt-2)
@@ -479,8 +483,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1,HBO HD (Opt-01)
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+#EXTINF:-1,HBO HD (Opt-02)
+https://delivery.macan.live/stream/hbo/index.m3u8?token=k7b3i8T7&v=
 #EXTINF:-1,HBO Hits
 https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=k7b3i8T7&v=
 #EXTINF:-1,HBO Family
@@ -573,6 +579,10 @@ http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors HD (Opt-02)
 http://p5.giffy.be:8080/Testing1/Testing1/21056
+#EXTINF:-1,Colors (Opt-01)
+http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF:-1,Colors (Opt-02)
+http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,Sony TV
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1,SONY SET MAX HD
@@ -673,6 +683,8 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 #EXTINF:-1,Travel XP
 http://p5.giffy.be:8080/Testing1/Testing1/21047
+#EXTINF:-1,Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
 #EXTINF:-1,Red Bull TV
