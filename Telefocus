@@ -459,6 +459,8 @@ http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
+#EXTINF:-1,Distro TV
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Food Network
@@ -519,6 +521,18 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1,MY CINEMA CHANNEL
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1,BLACK CINEMA
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,TVS WESTERN MOVIES
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1,TOM CRUISE MOVIES
+https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
+#EXTINF:-1,CLASSIC MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,MOVIES 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1,Zee Cafe HD
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Picture HD
